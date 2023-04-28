@@ -1,0 +1,4 @@
+theme = "fleet_dark"
+
+[editor]
+auto-format = true

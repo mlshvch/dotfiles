@@ -1,0 +1,7 @@
+[[language]]
+name = "golang"
+auto-format = true
+
+[[language]]
+name = "ruby"
+auto-format = true
